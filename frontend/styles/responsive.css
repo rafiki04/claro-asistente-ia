@@ -79,7 +79,7 @@
     }
 
     .message-content {
-        max-width: 70%;
+        max-width: 40%;
     }
 
     .message-content:has(.message-media-viewer) {
